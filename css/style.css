@@ -1,0 +1,63 @@
+/*~~~~~~~~~~~~~~~ GOOGLE FONTS ~~~~~~~~~~~~~~~*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/*~~~~~~~~~~~~~~~ VARIABLES CSS ~~~~~~~~~~~~~~~*/
+:root {
+  --body-color: hsl(31, 62%, 80%);
+  --section-color: hsl(48, 76%, 94%);
+  --primary-color: hsl(12, 100%, 39%);
+  --text-color: hsl(234, 100%, 8%);
+}
+
+/*~~~~~~~~~~~~~~~ BASE ~~~~~~~~~~~~~~~*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  border: none;
+  outline: none;
+  scroll-behavior: smooth;
+  font-family: "Poppins", sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+  overflow-x: hidden;
+}
+
+body {
+  background: var(--body-color);
+  color: var(--text-color);
+  overflow-x: hidden;
+}
+
+/*~~~~~~~~~~~~~~~ REUSABLE CSS CLASSES ~~~~~~~~~~~~~~~*/
+section {
+  min-height: 100vh;
+  padding: 10rem 9% 2rem;
+}
+
+/*~~~~~~~~~~~~~~~ HEADER & NAV ~~~~~~~~~~~~~~~*/
+
+/* Active link */
+
+/*~~~~~~~~~~~~~~~ HOME ~~~~~~~~~~~~~~~*/
+
+/*~~~~~~~~~~~~~~~ BUTTON ~~~~~~~~~~~~~~~*/
+
+/*~~~~~~~~~~~~~~~ ABOUT ~~~~~~~~~~~~~~~*/
+
+/*~~~~~~~~~~~~~~~ SERVICES ~~~~~~~~~~~~~~~*/
+
+/*~~~~~~~~~~~~~~~ PROJECT ~~~~~~~~~~~~~~~*/
+
+/*~~~~~~~~~~~~~~~ CONTACT ~~~~~~~~~~~~~~~*/
+
+/*~~~~~~~~~~~~~~~ FOOTER ~~~~~~~~~~~~~~~*/
+
+/*~~~~~~~~~~~~~~~ SCROLL UP ~~~~~~~~~~~~~~~*/
+
+/* Show Scroll Up */
+
+/*~~~~~~~~~~~~~~~ BREAKPOINTS ~~~~~~~~~~~~~~~*/
