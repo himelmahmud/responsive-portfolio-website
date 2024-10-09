@@ -36,11 +36,6 @@ window.onsecroll = () => {
   menuIcon.classList.remove("ri-close-large-line");
   navbar.classList.remove("active");
 };
-// active link
-
-// sticky navbar
-
-// remove toggle icon and navbar when click navbar link (scroll)
 
 /*~~~~~~~~~~~~~~~ SHOW SCROLL UP ~~~~~~~~~~~~~~~*/
 const scrollUp = () => {
